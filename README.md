@@ -1,2 +1,2 @@
 # ENGG1340
-From HKU ENGG1340
+For HKU ENGG1340 course
